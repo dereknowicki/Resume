@@ -1,7 +1,9 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass moderncv
 \begin_preamble
 % adjust the page margins
@@ -17,7 +19,7 @@
 \familyname{Nowicki}
 
 % optional, remove the line if not wanted
-\title{Curriculum Vitae}
+%\title{Curriculum Vitae}
 
 % optional
 % \address{street and number}{postcode city}
@@ -50,16 +52,16 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman default
-\font_sans default
-\font_typewriter default
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
-
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -70,15 +72,24 @@
 \use_hyperref false
 \papersize default
 \use_geometry false
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date false
+\justification true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -185,57 +196,51 @@ Employment History
 \end_layout
 
 \begin_layout Entry
-July 2014--August 2015
-\begin_inset ERT
-status collapsed
+\begin_inset Argument 1
+status open
 
 \begin_layout Plain Layout
-
-}{
+July 2014–August 2015
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
 Intern
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 iRobot
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 Pasadena
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-California
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
-
-}{
+California
 \end_layout
 
 \end_inset
@@ -244,57 +249,51 @@ Description
 \end_layout
 
 \begin_layout Entry
-February 2006--June 2015
-\begin_inset ERT
-status collapsed
+\begin_inset Argument 1
+status open
 
 \begin_layout Plain Layout
-
-}{
+February 2006–June 2015
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
 Systems Specialist
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 Climatec
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 Irvine
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-California
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
-
-}{
+California
 \end_layout
 
 \end_inset
@@ -303,57 +302,51 @@ Description
 \end_layout
 
 \begin_layout Entry
-November 1999--February 2006
-\begin_inset ERT
-status collapsed
+\begin_inset Argument 1
+status open
 
 \begin_layout Plain Layout
-
-}{
+November 1999–February 2006
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
 Interior Communications Electrician
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 United States Navy
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
 
-\begin_inset ERT
-status collapsed
+\begin_inset Argument 4
+status open
 
 \begin_layout Plain Layout
 
-}{
 \end_layout
 
 \end_inset
 
 
-\begin_inset ERT
-status collapsed
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
 
-}{
 \end_layout
 
 \end_inset
@@ -365,78 +358,30 @@ Description
 Computer Skills
 \end_layout
 
-\begin_layout Computer
-OS
-\begin_inset ERT
-status collapsed
+\begin_layout Item
+\begin_inset Argument 1
+status open
 
 \begin_layout Plain Layout
-
-}{
+Operating Systems
 \end_layout
 
 \end_inset
 
-Linux, OSX, Windows
-\begin_inset ERT
-status collapsed
+Linux, Mac OSX, Windows
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
 
 \begin_layout Plain Layout
-
-}{
+Programming Languages
 \end_layout
 
 \end_inset
 
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Computer
-Programming
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-C/C++, JAVA 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-scripting
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Python, Octave
+C, C++, JAVA, Python, Octave
 \end_layout
 
 \begin_layout Section
@@ -444,57 +389,51 @@ Education
 \end_layout
 
 \begin_layout Entry
-June 2009--June 2015
-\begin_inset ERT
-status collapsed
+\begin_inset Argument 1
+status open
 
 \begin_layout Plain Layout
-
-}{
+June 2009–June 2015
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
 Computer Science
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 Pasadena City College
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 Pasadena
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-California
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
-
-}{
+California
 \end_layout
 
 \end_inset
@@ -503,57 +442,51 @@ Associates Degree in progress.
 \end_layout
 
 \begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
 December 2008
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
 Niagara AX Certification
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 Tridium Corporation
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 Richmond
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-Virginia
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
-
-}{
+Virginia
 \end_layout
 
 \end_inset
@@ -562,57 +495,51 @@ Installation and programming of Niagara devices and software.
 \end_layout
 
 \begin_layout Entry
-September 2005
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Work Center Supervisor Training
-\begin_inset ERT
+\begin_inset Argument 1
 status open
 
 \begin_layout Plain Layout
-
-}{
+September 2005
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Work Center Supervisor Training
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 Navy Southwest Regional Maintenance Center
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 San Diego
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-California
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
-
-}{
+California
 \end_layout
 
 \end_inset
@@ -621,57 +548,51 @@ Qualification training required to assume the role of work center supervisor.
 \end_layout
 
 \begin_layout Entry
-August 2005
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-e-SOMMS Practical Application
-\begin_inset ERT
+\begin_inset Argument 1
 status open
 
 \begin_layout Plain Layout
-
-}{
+August 2005
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+e-SOMMS Practical Application
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 Afloat Training Group NRSW
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 San Diego
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-California
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
-
-}{
+California
 \end_layout
 
 \end_inset
@@ -681,57 +602,51 @@ Electronic Shift Operations Management System qualifications for equipment
 \end_layout
 
 \begin_layout Entry
-April 2004
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-AN/WSN-7 Ring Laser Gyrocompassm Operation
-\begin_inset ERT
+\begin_inset Argument 1
 status open
 
 \begin_layout Plain Layout
-
-}{
+April 2004
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+AN/WSN-7 Ring Laser Gyrocompassm Operation
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 WR Systems Corp.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 Norfolk
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-Virginia
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
-
-}{
+Virginia
 \end_layout
 
 \end_inset
@@ -740,57 +655,51 @@ Operators certification for the AN/WSN-7 shipboard ring laser gyrocompass.
 \end_layout
 
 \begin_layout Entry
-February 2004
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-DTS Stabilized Satellite Television System Technician
-\begin_inset ERT
+\begin_inset Argument 1
 status open
 
 \begin_layout Plain Layout
-
-}{
+February 2004
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+DTS Stabilized Satellite Television System Technician
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 Fleet Technical Support Center Atlantic
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 Norfolk
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-Virginia
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
-
-}{
+Virginia
 \end_layout
 
 \end_inset
@@ -800,57 +709,51 @@ Repair and maintenance certification for shipboard stabilized sattelite
 \end_layout
 
 \begin_layout Entry
-November 2003
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-How to Perform DANGER Tag-Out Procedures
-\begin_inset ERT
+\begin_inset Argument 1
 status open
 
 \begin_layout Plain Layout
-
-}{
+November 2003
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+How to Perform DANGER Tag-Out Procedures
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 Navy E-Learning
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 Norfolk
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-Virginia
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
-
-}{
+Virginia
 \end_layout
 
 \end_inset
@@ -860,57 +763,51 @@ Qulification to perform high and low voltage tag-out procedure for shipboard
 \end_layout
 
 \begin_layout Entry
-November 2003
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Basic Shipboard Electrical Equipment
-\begin_inset ERT
+\begin_inset Argument 1
 status open
 
 \begin_layout Plain Layout
-
-}{
+November 2003
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Basic Shipboard Electrical Equipment
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 Navy E-Learning
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 Norfolk
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-Virginia
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
-
-}{
+Virginia
 \end_layout
 
 \end_inset
@@ -919,57 +816,51 @@ Qulification to perform maintenance on shipboard electrical equipment.
 \end_layout
 
 \begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
 September 2000
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
 AN/WSN-5 Inertial Navigation Set Technician
-\begin_inset ERT
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
 United States Navy
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 Great Lakes
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-Illinois
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
-
-}{
+Illinois
 \end_layout
 
 \end_inset
@@ -987,57 +878,51 @@ C
 \end_layout
 
 \begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
 August 2000
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-AN/WSN-2 Inertial Navigation Set Technician
-\begin_inset ERT
+
+\begin_inset Argument 2
 status open
 
 \begin_layout Plain Layout
-
-}{
+AN/WSN-2 Inertial Navigation Set Technician
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 United States Navy
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 Great Lakes
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-Illinois
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
-
-}{
+Illinois
 \end_layout
 
 \end_inset
@@ -1055,57 +940,51 @@ C
 \end_layout
 
 \begin_layout Entry
-January 2000--July 2000
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-Interior Communications Electrician
-\begin_inset ERT
+\begin_inset Argument 1
 status open
 
 \begin_layout Plain Layout
-
-}{
+January 2000–July 2000
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Interior Communications Electrician
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 United States Navy
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 Great Lakes
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-Illinois
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
-
-}{
+Illinois
 \end_layout
 
 \end_inset
@@ -1123,57 +1002,51 @@ A
 \end_layout
 
 \begin_layout Entry
-June 1999
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
-\end_layout
-
-\end_inset
-
-High School Diploma
-\begin_inset ERT
+\begin_inset Argument 1
 status open
 
 \begin_layout Plain Layout
-
-}{
+June 1999
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+High School Diploma
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 Franklin High School
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
 Livonia
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}{
 \end_layout
 
 \end_inset
 
-Michigan
-\begin_inset ERT
-status collapsed
+
+\begin_inset Argument 5
+status open
 
 \begin_layout Plain Layout
-
-}{
+Michigan
 \end_layout
 
 \end_inset
