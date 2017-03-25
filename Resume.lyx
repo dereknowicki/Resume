@@ -523,7 +523,7 @@ Performed maintenance, troubleshooting and repair of systems and equipment
 \end_layout
 
 \begin_layout Section
-Computer Skills
+Technical Skills & Experience
 \end_layout
 
 \begin_layout Item
@@ -531,12 +531,13 @@ Computer Skills
 status open
 
 \begin_layout Plain Layout
-Operating Systems
+OS Technologies
 \end_layout
 
 \end_inset
 
-Linux, Mac OSX, Windows
+Ubuntu Linux (Desktop & Server), Mac OSX, Windows (Desktop & Server), Vagrant,
+ Virtualbox
 \end_layout
 
 \begin_layout Item
@@ -544,12 +545,108 @@ Linux, Mac OSX, Windows
 status open
 
 \begin_layout Plain Layout
-Programming Languages
+Programming
 \end_layout
 
 \end_inset
 
-C, C++, JAVA, Python, Octave
+C, C++, Java, Python, GNU Octave, Javascript, Bash, Git, Github, Bitbucket
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Markup Languages
+\end_layout
+
+\end_inset
+
+HTML, XML, QML, CSS, LaTeX, Markdown
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+SDK's & Libraries
+\end_layout
+
+\end_inset
+
+Qt SDK (Cross-platform C++), Greenhouse SDK (Gesture Recognition for OSX
+ in C++), CMU Sphinx (Speech recognition in C++), JQuery, Android SDK
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Commercial Automation
+\end_layout
+
+\end_inset
+
+Alerton Visual Logic Controllers, Honeywell WEBs, Honeywell Spyder, Tridium
+ JACE, Tridium Niagara Framework, Field Server Gateway
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Communications Protocols
+\end_layout
+
+\end_inset
+
+TCP/IP, UDP/IP, BACnet/Ethernet, BACnet/MSTP, LON FT10, Modbus, RS-232 Serial/IP
+, Siemens FLN, Johnson Controls N2
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Web Technologies
+\end_layout
+
+\end_inset
+
+Django, MySQL, SQLite, Nginx, Uwsgi, Flask, WordPress
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Software & IDEs
+\end_layout
+
+\end_inset
+
+LibreOffice, Microsoft Office, Atom, Pycharm, Qt Creator, Sketch App, LyX,
+ GIMP, Inkscape, Slack, X Code
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Other Hardware
+\end_layout
+
+\end_inset
+
+Microsoft Kinect, STM32 Microcontroller, Raspberry Pi, Arduino, iRobot Create
+ v1
 \end_layout
 
 \begin_layout Section
