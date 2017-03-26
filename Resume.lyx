@@ -156,22 +156,6 @@ Deep understanding and experience writing applications that process sensor
  data and generate actuator signals.
 \end_layout
 
-\begin_layout ListItem
-Implemented programing, commissioning, GUI and web server for a 10-building
- Energy Management system for the Los Angeles Police Department.
- The system was hosted on a county-wide private BACnet/IP network consisting
- of a Microsoft Windows-based server and 10 client workstations running
- Alerton Envision for BACtalk software with a Linux-based web server running
- Alerton WEBTalk software.
-\end_layout
-
-\begin_layout ListItem
-Lead the design and build team for the integrated campus Energy Management
- system at East Los Angeles College which integrates systems from Alerton,
- Siemens and Andover into a single, unified system spanning more than 12
- buildings.
-\end_layout
-
 \begin_layout Section
 Employment History
 \end_layout
@@ -358,6 +342,16 @@ n Systems for large commercial, educational and government buildings and
  micro-controller devices.
  Design, configure and test multi-protocol micro-controller networks using
  proprietary and open communications protocols.
+ Lead the design and build team for the integrated campus Energy Management
+ system at East Los Angeles College which integrates systems from Alerton,
+ Siemens and Andover into a single, unified system spanning more than 12
+ buildings.
+ Implemented programing, commissioning, GUI and web server for a 10-building
+ Energy Management system for the Los Angeles Police Department.
+ The system was hosted on a county-wide private BACnet/IP network consisting
+ of a Microsoft Windows-based server and 10 client workstations running
+ Alerton Envision for BACtalk software with a Linux-based web server running
+ Alerton WEBTalk software.
 \end_layout
 
 \begin_layout Entry
