@@ -143,17 +143,33 @@ Areas of Expertise
 \end_layout
 
 \begin_layout ListItem
-10+ years of experience working with customers, training and instructing
- individuals and large groups.
+\begin_inset CommandInset include
+LatexCommand input
+filename "areas-of-expertise/customer-training.lyx"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout ListItem
-4+ years experience Programing in C++ using QT Creator IDE and QT SDK.
+\begin_inset CommandInset include
+LatexCommand input
+filename "areas-of-expertise/qt.lyx"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout ListItem
-Deep understanding and experience writing applications that process sensor
- data and generate actuator signals.
+\begin_inset CommandInset include
+LatexCommand input
+filename "areas-of-expertise/sensor-actuator-apps.lyx"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
