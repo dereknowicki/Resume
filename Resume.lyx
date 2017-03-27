@@ -213,7 +213,7 @@ California
  
 \begin_inset CommandInset include
 LatexCommand input
-filename "employment-experience/freelance-web-designer.txt"
+filename "employment-experience/freelance-web-designer.lyx"
 
 \end_inset
 
@@ -273,7 +273,7 @@ California
 
 \begin_inset CommandInset include
 LatexCommand input
-filename "employment-experience/irobot_long.txt"
+filename "employment-experience/irobot-long.lyx"
 
 \end_inset
 
@@ -333,7 +333,7 @@ California
 
 \begin_inset CommandInset include
 LatexCommand input
-filename "employment-experience/climatec_long.txt"
+filename "employment-experience/climatec-long.lyx"
 
 \end_inset
 
@@ -393,7 +393,7 @@ California
 
 \begin_inset CommandInset include
 LatexCommand input
-filename "employment-experience/BonhommeRichard_long.txt"
+filename "employment-experience/BonhommeRichard-long.lyx"
 
 \end_inset
 
@@ -453,7 +453,7 @@ Virginia
 
 \begin_inset CommandInset include
 LatexCommand input
-filename "employment-experience/Kearsarge-IC2_long.txt"
+filename "employment-experience/Kearsarge-IC2-long.lyx"
 
 \end_inset
 
@@ -513,7 +513,7 @@ Virginia
 
 \begin_inset CommandInset include
 LatexCommand input
-filename "employment-experience/Kearsarge-IC3_long.txt"
+filename "employment-experience/Kearsarge-IC3-long.lyx"
 
 \end_inset
 
