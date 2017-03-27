@@ -210,8 +210,14 @@ California
 
 \end_inset
 
- Custom built WordPress websites, web master services as well as site redesigns
- (mockups and UX) and PrestaShop maintenance.
+ 
+\begin_inset CommandInset include
+LatexCommand input
+filename "employment-experience/freelance-web-designer.txt"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Entry
@@ -264,16 +270,14 @@ California
 
 \end_inset
 
-Designed and conducted experiments with Roomba Robots related to how changes
- in temperature effect the Simultaneous Location And Mapping (SLAM) algorithm
- for robot navigation.
- Wrote detailed research documents on experiments using the IMRAD scientific
- document organizational structure with LyX Document Processor software.
- The research documents that I wrote provided charts illustrating data which
- were created with Python using Matplotlib, a Matlab-like plotting library.
- I also wrote hardware testing automation scripts in Python to be used on
- in-house, custom-built, product testing hardware; as well as detailed tutorials
- for manual testing and calibration for both production and testing hardware.
+
+\begin_inset CommandInset include
+LatexCommand input
+filename "employment-experience/irobot_long.txt"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Entry
@@ -326,32 +330,14 @@ California
 
 \end_inset
 
-Performed programming and commissioning of custom, integrated Building Automatio
-n Systems for large commercial, educational and government buildings and
- multi-building campuses.
- Trained building maintenance and facilities personnel on equipment sequence
- of operation, web-interface navigation, reading documentation and system
- troubleshooting.
- Responsible for quality assurance checking of equipment installation by
- electrical subcontractors, as well as coordinating specialized installation
- procedures.
- Training and mentoring new technicians in programing, networking and project
- planning and completion.
- Interpret engineered drawings and sequence of operations into programs
- using proprietary, brand-specific, high-level programming languages for
- micro-controller devices.
- Design, configure and test multi-protocol micro-controller networks using
- proprietary and open communications protocols.
- Lead the design and build team for the integrated campus Energy Management
- system at East Los Angeles College which integrates systems from Alerton,
- Siemens and Andover into a single, unified system spanning more than 12
- buildings.
- Implemented programing, commissioning, GUI and web server for a 10-building
- Energy Management system for the Los Angeles Police Department.
- The system was hosted on a county-wide private BACnet/IP network consisting
- of a Microsoft Windows-based server and 10 client workstations running
- Alerton Envision for BACtalk software with a Linux-based web server running
- Alerton WEBTalk software.
+
+\begin_inset CommandInset include
+LatexCommand input
+filename "employment-experience/climatec_long.txt"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Entry
@@ -404,21 +390,14 @@ California
 
 \end_inset
 
-Similar responsibilities to my position on the USS Kearsarge, I performed
- advanced maintenance and repair of equipment as well as served as front-line
- support for junior personnel in the field.
- Responsible for managing and delegation of trouble calls on equipment for
- end users.
- Trained personnel on leadership, management, equipment repair, and basic
- trouble shooting techniques.
- Managed maintenance, troubleshooting and repair of the Inertial Navigation
- Set and all associated equipment.
- Provided support and training for personnel responsible for creating, closing
- and maintaining status of work and repair requests at all levels from basic
- shipboard maintenance to system overhauls performed by outside contractors.
- Provided support and training for personnel responsible for ordering, acquisiti
-on and inventory of maintenance and repair parts and supplies for over 35,000
- individual pieces of equipment with an annual budget of over $1 million.
+
+\begin_inset CommandInset include
+LatexCommand input
+filename "employment-experience/BonhommeRichard_long.txt"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Entry
@@ -471,22 +450,14 @@ Virginia
 
 \end_inset
 
-Performed advanced maintenance and repair on systems and equipment for CCTV,
- digital and analog telephone, alarm and warning, audio/visual, electro-mechanic
-al/electro-hydraulic control systems (boiler, valve, steering).
- Responsible for fielding customer service calls and delegation of work
- to personnel.
- As lead technician for the shipboard AN/WSN-5 Inertial Navigation Set,
- I performed and oversaw maintenance, trouble shooting and repair on the
- INS and all associated equipment.
- Overall responsible for creating, closing and maintaining status of work
- and repair requests at all levels.
- Overall responsible for ordering, acquisition and inventory of maintenance
- and repair parts and supplies for over 35,000 individual pieces of equipment
- with an annual budget of over $1 million.
- Lead technician for Shipboard Stabilized Satellite Television system.
- Crew leader and organizer for shipboard ceremonies and events requiring
- public announcing and audio/visual production.
+
+\begin_inset CommandInset include
+LatexCommand input
+filename "employment-experience/Kearsarge-IC2_long.txt"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Entry
@@ -539,16 +510,14 @@ Virginia
 
 \end_inset
 
-Performed maintenance, troubleshooting and repair of systems and equipment
- for CCTV production and distribution, satellite television, alarm and warning,
- video surveillance, digital and analog telephone, boiler monitoring, inertial
- navigation, and digital and analog intercommunication and announcing.
- Responsible for maintaining inventory and calibration status of over 25
- individual pieces of test equipment and over 200 installed gauges and meters.
- Lead technician for Shipboard Stabilized Satellite Television System.
- Worked crew for setup and operation of public announcing system for formal
- and informal shipboard ceremonies and events including Non-Combatant Evacuation
- Operations (NEO), burials at sea, as well as other non-formal events.
+
+\begin_inset CommandInset include
+LatexCommand input
+filename "employment-experience/Kearsarge-IC3_long.txt"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
