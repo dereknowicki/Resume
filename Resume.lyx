@@ -540,127 +540,94 @@ filename "employment-experience/Kearsarge-IC3-long.lyx"
 Technical Skills & Experience
 \end_layout
 
-\begin_layout Item
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-OS Technologies
-\end_layout
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "technical-skills-experience/os-technologies.lyx"
 
 \end_inset
 
-Ubuntu Linux (Desktop & Server), Mac OSX, Windows (Desktop & Server), Vagrant,
- Virtualbox
+
 \end_layout
 
-\begin_layout Item
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Programming
-\end_layout
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "technical-skills-experience/programming.lyx"
 
 \end_inset
 
-C, C++, Java, Python, GNU Octave, Javascript, Bash, Git, Github, Bitbucket
+
 \end_layout
 
-\begin_layout Item
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Markup Languages
-\end_layout
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "technical-skills-experience/sdks-libraries.lyx"
 
 \end_inset
 
-HTML, XML, QML, CSS, LaTeX, Markdown
+
 \end_layout
 
-\begin_layout Item
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-SDK's & Libraries
-\end_layout
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "technical-skills-experience/web-technologies.lyx"
 
 \end_inset
 
-Qt SDK (Cross-platform C++), Greenhouse SDK (Gesture Recognition for OSX
- in C++), CMU Sphinx (Speech recognition in C++), JQuery, Android SDK
+
 \end_layout
 
-\begin_layout Item
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Commercial Automation
-\end_layout
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "technical-skills-experience/software-ides.lyx"
 
 \end_inset
 
-Alerton Visual Logic Controllers, Honeywell WEBs, Honeywell Spyder, Tridium
- JACE, Tridium Niagara Framework, Field Server Gateway
+
 \end_layout
 
-\begin_layout Item
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Communications Protocols
-\end_layout
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "technical-skills-experience/markup-languages.lyx"
 
 \end_inset
 
-TCP/IP, UDP/IP, BACnet/Ethernet, BACnet/MSTP, LON FT10, Modbus, RS-232 Serial/IP
-, Siemens FLN, Johnson Controls N2
+
 \end_layout
 
-\begin_layout Item
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Web Technologies
-\end_layout
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "technical-skills-experience/communications-protocols.lyx"
 
 \end_inset
 
-Django, MySQL, SQLite, Nginx, Uwsgi, Flask, WordPress
+
 \end_layout
 
-\begin_layout Item
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Software & IDEs
-\end_layout
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "technical-skills-experience/commercial-automation.lyx"
 
 \end_inset
 
-LibreOffice, Microsoft Office, Atom, Pycharm, Qt Creator, Sketch App, LyX,
- GIMP, Inkscape, Slack, X Code
+
 \end_layout
 
-\begin_layout Item
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Other Hardware
-\end_layout
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "technical-skills-experience/other-hardware.lyx"
 
 \end_inset
 
-Microsoft Kinect, STM32 Microcontroller, Raspberry Pi, Arduino, iRobot Create
- v1
+
 \end_layout
 
 \begin_layout Section
