@@ -139,40 +139,6 @@ This part is super important to render the preamble as the title!
 \end_layout
 
 \begin_layout Section
-Areas of Expertise
-\end_layout
-
-\begin_layout ListItem
-\begin_inset CommandInset include
-LatexCommand input
-filename "areas-of-expertise/customer-training.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout ListItem
-\begin_inset CommandInset include
-LatexCommand input
-filename "areas-of-expertise/qt.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout ListItem
-\begin_inset CommandInset include
-LatexCommand input
-filename "areas-of-expertise/sensor-actuator-apps.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
 Employment History
 \end_layout
 
