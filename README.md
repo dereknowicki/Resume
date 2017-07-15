@@ -8,7 +8,7 @@ http://www.lyx.org/Download
 
 There is no official documentation for the modernCV document class. The following is documentation that I drafted for my own use:
 
-#Preamble
+# Preamble
 * The personal data like your name, image, address, etc. are set in the document preamble.
 * You can view/edit the preamble by going to Document->Settings...->LaTeX Preamble
 * To use the latext preamble as the title, you must insert some latext code at the top of the document to ensure that it will render:
@@ -58,7 +58,7 @@ There is no official documentation for the modernCV document class. The followin
 %\quote{"You only live twice." (an optional quote)}
 ```
 
-#Entry Section
+# Entry Section
 * This is meant to be used for a job position or educational institution entry and it must follow the following format:
 
 ```latex
@@ -75,7 +75,7 @@ There is no official documentation for the modernCV document class. The followin
   1. View the source code: View->View Source
   * Arguments 3 to 6 can be left empty
 
-#Item Section
+# Item Section
 * This section is a two-argument item that can be used in many ways.
 * It has the form:
 
@@ -91,12 +91,12 @@ There is no official documentation for the modernCV document class. The followin
   * Type }{ into the "ert" box
 4. Type in second argument
 
-#List Item
+# List Item
 * The list item will get a nice little bubble next to it on the document
 1. Set section to List Item
 2. Write item text
 
-#List Sub-Items
+# List Sub-Items
 * The List Item section can be set up with sub-items using the itemize tag
 1. Insert->Tex code
   * ` \begin{itemize}\item `
@@ -109,7 +109,7 @@ There is no official documentation for the modernCV document class. The followin
   * ` \end{itemize}`
     * This marks the end of the itemized list
 
-#Double Item
+# Double Item
 * Basically 2 items in a row and seperated into columns
 * Also gets a nice bubble next to the line in the document
 * fits the form:
@@ -125,7 +125,7 @@ There is no official documentation for the modernCV document class. The followin
   * }{
 4. Write item right text
 
-#Computer
+# Computer
 * This section is a two-column list, where each column has a header.
 * this is the form:
 
@@ -142,14 +142,14 @@ Category1    List item, list item    Category2    list item, list item,
     * Category2 would be a list of operating systems I know how to ADMINISTER
 * None of the arguments are required so you can have an empty Category2 if there isnt really a more specific subcategory for Category1
 
-#Unformatted Content
+# Unformatted Content
 * If you need to have content that the document class will ignore, you can add a Close Section section.
 * the unformatted section ends at the next end of line character.
 
-#Empty Section
+# Empty Section
 * This section will format all of its contents with modercv layout, but it will not have a section heading
 
-#Space
+# Space
 * This section will insert a verticle space
 * Has one argument that must have a number and a unit of measure.
 * These are the valid units of measure
@@ -163,7 +163,7 @@ dd  didot point   (1157 dd = 1238 pt)
 cc  cicero        (1 cc = 12 dd)
 sp  scaled point  (65536 sp = 1 pt)
 
-#Bibliography
+# Bibliography
 * This section will enter a bibtex section
 * The section header will read "References"
 * Left-click the grey box to edit the key and label
