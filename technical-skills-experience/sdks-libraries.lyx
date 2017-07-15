@@ -82,7 +82,8 @@ SDK's & Libraries
 \end_inset
 
 Qt SDK (Cross-platform C++), Greenhouse SDK (Gesture Recognition for OSX
- in C++), CMU Sphinx (Speech recognition in C++), JQuery, Android SDK
+ in C++), CMU Sphinx (Speech recognition in C++), JQuery, Android SDK, React
+ Native, OpenTok (Video Chat)
 \end_layout
 
 \end_body
