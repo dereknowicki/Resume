@@ -781,16 +781,6 @@ filename "volunteer-positions/2017-03-scale-av-dev.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "volunteer-positions/2017-02-smc-socal-webmaster.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
 filename "volunteer-positions/2016-09-smc-er-environment.lyx"
 
 \end_inset
