@@ -153,16 +153,20 @@ Category1    List item, list item    Category2    list item, list item,
 ## Space
 * This section will insert a verticle space
 * Has one argument that must have a number and a unit of measure.
-* These are the valid units of measure
-pt  point         (1 in = 72.27 pt)
-pc  pica          (1 pc = 12 pt)
-in  inch          (1 in = 25.4 mm)
-bp  big point     (1 in = 72 bp)
-cm  centimetre    (1 cm = 10 mm)
-mm  millimetre
-dd  didot point   (1157 dd = 1238 pt)
-cc  cicero        (1 cc = 12 dd)
-sp  scaled point  (65536 sp = 1 pt)
+* These are the valid units of measure:
+
+| | | |
+|:---:|:---:|:---:|
+| pt | point | (1 in = 72.27 pt) |
+| pc | pica | (1 pc = 12 pt) |
+| in | inch | (1 in = 25.4 mm) |
+| bp | big point | (1 in = 72 bp) |
+| cm | centimetre | (1 cm = 10 mm) |
+| mm | millimetre |  |
+| dd | didot point | (1157 dd = 1238 pt) |
+| cc | cicero | (1 cc = 12 dd) |
+| sp | scaled point | (65536 sp = 1 pt) |
+
 
 ## Bibliography
 * This section will enter a bibtex section
