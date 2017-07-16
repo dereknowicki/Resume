@@ -637,7 +637,7 @@ Volunteer Positions
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "volunteer-positions/2017-03-scale-av-team.lyx"
+filename "volunteer-positions/2017-09-scale-app.lyx"
 
 \end_inset
 
@@ -647,7 +647,17 @@ filename "volunteer-positions/2017-03-scale-av-team.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "volunteer-positions/2017-03-scale-av-dev.lyx"
+filename "volunteer-positions/2017-03-scale-av-team-short.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "volunteer-positions/2017-03-scale-av-dev-short.lyx"
 
 \end_inset
 
@@ -667,7 +677,7 @@ filename "volunteer-positions/2016-09-smc-er-environment.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "volunteer-positions/2015-07-girls-who-code.lyx"
+filename "volunteer-positions/2015-07-girls-who-code-short.lyx"
 
 \end_inset
 
