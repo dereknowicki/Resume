@@ -603,16 +603,6 @@ filename "education/2005-09-navy-wc-sup-training.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "education/2004-04-navy-an-wsn-7.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
 filename "education/2000-09-navy-an-wsn-5-tech.lyx"
 
 \end_inset
