@@ -566,36 +566,6 @@ filename "technical-skills-experience/markup-languages.lyx"
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "technical-skills-experience/communications-protocols.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "technical-skills-experience/commercial-automation.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "technical-skills-experience/other-hardware.lyx"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 Education
 \end_layout
@@ -723,7 +693,7 @@ Repositories
 status open
 
 \begin_layout Plain Layout
-Source code for this document
+Source code for this subset resume, and full work experience here:
 \end_layout
 
 \end_inset
