@@ -375,7 +375,7 @@ California
 
 \begin_inset CommandInset include
 LatexCommand input
-filename "employment-experience/irobot-long.lyx"
+filename "employment-experience/irobot-lead.lyx"
 
 \end_inset
 
@@ -495,7 +495,7 @@ status open
 
 \begin_inset CommandInset include
 LatexCommand input
-filename "employment-experience/Kearsarge-IC2-long.lyx"
+filename "employment-experience/USN-lead.lyx"
 
 \end_inset
 
@@ -594,16 +594,6 @@ filename "education/2017-06-pcc-cs.lyx"
 \begin_inset CommandInset include
 LatexCommand input
 filename "education/2005-09-navy-wc-sup-training.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "education/2000-09-navy-an-wsn-5-tech.lyx"
 
 \end_inset
 
