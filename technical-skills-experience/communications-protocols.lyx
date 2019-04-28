@@ -82,7 +82,7 @@ Communications Protocols
 \end_inset
 
 TCP/IP, UDP/IP, BACnet/Ethernet, BACnet/MSTP, LON FT10, Modbus, RS-232 Serial/IP
-, Siemens FLN, Johnson Controls N2
+, Siemens FLN, Johnson Controls N2, CANbus
 \end_layout
 
 \end_body
