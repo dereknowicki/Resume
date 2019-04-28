@@ -71,33 +71,46 @@
 
 \begin_body
 
-\begin_layout Standard
-Performed programming and commissioning of custom, integrated Building Automatio
-n Systems for large commercial, educational and government buildings and
- multi-building campuses.
- Trained building maintenance and facilities personnel on equipment sequence
- of operation, web-interface navigation, reading documentation and system
- troubleshooting.
- Responsible for quality assurance checking of equipment installation by
- electrical subcontractors, as well as coordinating specialized installation
- procedures.
- Training and mentoring new technicians in programing, networking and project
- planning and completion.
- Interpret engineered drawings and sequence of operations into programs
- using proprietary, brand-specific, high-level programming languages for
- micro-controller devices.
- Design, configure and test multi-protocol micro-controller networks using
- proprietary and open communications protocols.
- Lead the design and build team for the integrated campus Energy Management
- system at East Los Angeles College which integrates systems from Alerton,
- Siemens and Andover into a single, unified system spanning more than 12
- buildings.
- Implemented programing, commissioning, GUI and web server for a 10-building
- Energy Management system for the Los Angeles Police Department.
- The system was hosted on a county-wide private BACnet/IP network consisting
- of a Microsoft Windows-based server and 10 client workstations running
- Alerton Envision for BACtalk software with a Linux-based web server running
- Alerton WEBTalk software.
+\begin_layout Itemize
+Programming and commissioning of custom, integrated Building Automation
+ Systems for large commercial, educational and government buildings and
+ multi-building campuses
+\end_layout
+
+\begin_layout Itemize
+Programmed web based Energy Management Systems (EMS) for large buildings
+ and multi-building campuses.
+\end_layout
+
+\begin_layout Itemize
+Responsible for quality assurance of equipment installation by subcontractors,
+ as well as coordinating specialized installation procedures
+\end_layout
+
+\begin_layout Itemize
+Design, configure and test multi-protocol microcontroller networks using
+ proprietary and open communications protocols
+\end_layout
+
+\begin_layout Itemize
+Interpret engineered drawings and sequence of operations into programs using
+ proprietary, brand-specific, high-level programming languages for microcontroll
+er devices
+\end_layout
+
+\begin_layout Itemize
+Lead the design and build team for the integrated campus Energy Management
+ system at East Los Angeles College integrating systems from multiple brands
+ and legacy equipment spanning more than 12 buildings.
+ 
+\end_layout
+
+\begin_layout Itemize
+Programing, commissioning, GUI and web server for a 10-building Energy Managemen
+t system for the Los Angeles Police Department hosted on a county-wide private
+ BACnet/IP network consisting of a Microsoft Windows-based server and 10
+ client workstations running Alerton Envision for BACtalk software with
+ a Linux-based web server running Alerton WEBTalk software
 \end_layout
 
 \end_body

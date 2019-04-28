@@ -71,23 +71,19 @@
 
 \begin_body
 
-\begin_layout Standard
-Programming and commissioning of custom integrated Building Automation Systems
- for large commercial, educational and government multi-building campuses.
- Trained maintenance personnel on system operation and troubleshooting.
- Responsible for quality assurance of equipment installation by subcontractors,
- as well as coordinating specialized installation procedures.
- Training and mentoring new technicians in programing, networking and project
- planning.
- Interpret engineered drawings and sequence of operations into programs
- for micro-controller devices.
- Design, configure and test multi-protocol micro-controller networks using
- proprietary and open communications protocols.
- Lead the design and build team for the integrated campus Energy Management
- system at East Los Angeles College which integrates systems from multiple
- brands spanning more than 12 buildings.
- Implemented programing, commissioning, GUI and web server for a 10-building
- Energy Management system for the Los Angeles Police Department.
+\begin_layout Itemize
+Trained building maintenance and facilities personnel on equipment sequence
+ of operation, web-interface navigation, system documentation and troubleshootin
+g
+\end_layout
+
+\begin_layout Itemize
+Trained maintenance personnel on system operation and troubleshooting
+\end_layout
+
+\begin_layout Itemize
+Training and mentoring new technicians in programing, networking and project
+ planning and completion
 \end_layout
 
 \end_body
