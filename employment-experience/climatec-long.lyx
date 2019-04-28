@@ -23,7 +23,7 @@
 \font_tt_scale 100 100
 \graphics default
 \default_output_format default
-\output_sync 0
+\output_sync 1
 \bibtex_command default
 \index_command default
 \paperfontsize default
@@ -96,6 +96,17 @@ Design, configure and test multi-protocol microcontroller networks using
 Interpret engineered drawings and sequence of operations into programs using
  proprietary, brand-specific, high-level programming languages for microcontroll
 er devices
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+preview true
+filename "climatec-lead.lyx"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
