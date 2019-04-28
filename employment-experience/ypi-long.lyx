@@ -71,14 +71,23 @@
 
 \begin_body
 
-\begin_layout Standard
-Tutoring students sponsored by the TechHire program attending coding bootcamps
- Firehose Project and Sabio LA.
- Students in the program are adults with learning disabilities, and veterans.
- Built contetextualized curriculum for the Youth Policy Institute Tech Bridge
- Program which is designed for students 16-21 learning basic math and language
- skills.
- Lessons are contextualized to computer programming using the Alice program.
+\begin_layout Itemize
+Tutored students sponsored by the TechHire program attending coding bootcamps
+ Firehose Project and Sabio LA
+\end_layout
+
+\begin_layout Itemize
+Worked with adult students with learning disabilities and veterans
+\end_layout
+
+\begin_layout Itemize
+Built contextualized curriculum for the Youth Policy Institute Tech Bridge
+ Program which is designed for students 16-21
+\end_layout
+
+\begin_layout Itemize
+Created contextualized lessons teaching basic math and language skills along
+ with programming using Carnegie Mellon University Alice programming environment
 \end_layout
 
 \end_body
