@@ -71,35 +71,26 @@
 
 \begin_body
 
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "climatec-general.lyx"
-
-\end_inset
-
-
+\begin_layout Itemize
+Programming and commissioning of custom, integrated Building Automation
+ Systems and web based Energy Management Systems (EMS) for large commercial,
+ educational and government buildings and multi-building campuses
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-preview true
-filename "climatec-lead.lyx"
-
-\end_inset
-
-
+\begin_layout Itemize
+Responsible for quality assurance of equipment installation by subcontractors,
+ as well as coordinating specialized installation procedures
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "climatec-projects.lyx"
+\begin_layout Itemize
+Design, configure and test multi-protocol microcontroller networks using
+ proprietary and open communications protocols
+\end_layout
 
-\end_inset
-
-
+\begin_layout Itemize
+Interpret engineered drawings and sequence of operations into programs using
+ proprietary, brand-specific, high-level programming languages for microcontroll
+er devices
 \end_layout
 
 \end_body

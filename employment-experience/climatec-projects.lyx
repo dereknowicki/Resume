@@ -71,35 +71,19 @@
 
 \begin_body
 
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "climatec-general.lyx"
-
-\end_inset
-
-
+\begin_layout Itemize
+Lead the design and build team for the integrated campus Energy Management
+ system at East Los Angeles College integrating systems from multiple brands
+ and legacy equipment spanning more than 12 buildings.
+ 
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-preview true
-filename "climatec-lead.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "climatec-projects.lyx"
-
-\end_inset
-
-
+\begin_layout Itemize
+Programing, commissioning, GUI and web server for a 10-building Energy Managemen
+t system for the Los Angeles Police Department hosted on a county-wide private
+ BACnet/IP network consisting of a Microsoft Windows-based server and 10
+ client workstations running Alerton Envision for BACtalk software with
+ a Linux-based web server running Alerton WEBTalk software
 \end_layout
 
 \end_body
