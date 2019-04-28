@@ -394,7 +394,7 @@ filename "employment-experience/climatec-projects.lyx"
 status open
 
 \begin_layout Plain Layout
-October 2000 – February 2006
+November 1999 – February 2006
 \end_layout
 
 \end_inset
@@ -442,7 +442,7 @@ status open
 
 \begin_inset CommandInset include
 LatexCommand input
-filename "employment-experience/USN-lead.lyx"
+filename "employment-experience/USN-general.lyx"
 
 \end_inset
 
