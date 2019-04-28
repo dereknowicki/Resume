@@ -375,7 +375,14 @@ California
 
 \begin_inset CommandInset include
 LatexCommand input
-filename "employment-experience/climatec-lead.lyx"
+filename "employment-experience/climatec-general.lyx"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand input
+filename "employment-experience/climatec-projects.lyx"
 
 \end_inset
 
