@@ -13,8 +13,8 @@ There is no official documentation for the modernCV document class. The followin
 * The personal data like your name, image, address, etc. are set in the document preamble.
 * You can view/edit the preamble by going to Document->Settings...->LaTeX Preamble
 * To use the latext preamble as the title, you must insert some latext code at the top of the document to ensure that it will render:
-1. Insert -> Tex Code
-2. Paste the following code into the "erb": `\maketitle`
+	1. Insert -> Tex Code
+	2. Paste the following code into the "erb": `\maketitle`
 * When starting a new lyx document of this class the preamble will be empty. You can copy/paste the following code to begin with
 
 ```latex
