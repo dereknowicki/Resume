@@ -36,16 +36,16 @@ There is no official documentation for the modernCV document class. The followin
 % optional
 % \address{street and number}{postcode city}
 % '\\' adds a line break
-\address{5157 Loleta Ave.}{Los Angeles, CA\protect\\[0.1em] 90041\protect\\[0.2em]}
+\address{5555 First Ave.}{Los Angeles, CA\protect\\[0.1em] 90041\protect\\[0.2em]}
 
 % optional
-\phone{818-262-9565}
+\phone{555-123-4567}
 % optional
 %\mobile{+43(0)999 888}
 % optional
 %\fax{+43(0)999 7777}
 % optional
-\email{dereknowicki@gmail.com}
+\email{emailaddress@example.com}
 % optional
 %\extrainfo{www.lyx.org}
 
