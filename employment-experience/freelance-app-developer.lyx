@@ -71,12 +71,17 @@
 
 \begin_body
 
-\begin_layout Standard
-Mobile App development in native Android and iOS (Objective C) as well as
- cross-platform using React Native.
- Web applications using Python-Flask, Ruby on Rails and Python-Django.
- Built prototypes for camera control system, language learning, and video
- chat applications
+\begin_layout Itemize
+Cross Platform mobile App development with React Native and Qt/QML
+\end_layout
+
+\begin_layout Itemize
+Web applications with Python-Flask, NodeJS and MERN Stack
+\end_layout
+
+\begin_layout Itemize
+Prototype development projects include a camera control system, language
+ learning, and video chat applications
 \end_layout
 
 \end_body
