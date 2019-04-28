@@ -157,7 +157,7 @@ January 2016 - Present
 status open
 
 \begin_layout Plain Layout
-Web Designer
+App Developer/Consultant
 \end_layout
 
 \end_inset
@@ -167,7 +167,7 @@ Web Designer
 status open
 
 \begin_layout Plain Layout
-Freelance
+DBA Knowiki Apps
 \end_layout
 
 \end_inset
@@ -195,7 +195,67 @@ California
  
 \begin_inset CommandInset include
 LatexCommand input
-filename "employment-experience/freelance-web-designer.lyx"
+filename "employment-experience/freelance-app-developer.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+February 2017 - August 2017
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+TechTutor
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Youth Policy Institute
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Los Angeles
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+California
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand input
+filename "employment-experience/ypi-long.lyx"
 
 \end_inset
 
@@ -255,7 +315,7 @@ California
 
 \begin_inset CommandInset include
 LatexCommand input
-filename "employment-experience/irobot-web.lyx"
+filename "employment-experience/irobot-lead.lyx"
 
 \end_inset
 
@@ -315,7 +375,7 @@ California
 
 \begin_inset CommandInset include
 LatexCommand input
-filename "employment-experience/climatec-web.lyx"
+filename "employment-experience/climatec-lead.lyx"
 
 \end_inset
 
@@ -375,7 +435,7 @@ status open
 
 \begin_inset CommandInset include
 LatexCommand input
-filename "employment-experience/USN-condensed.lyx"
+filename "employment-experience/USN-lead.lyx"
 
 \end_inset
 
