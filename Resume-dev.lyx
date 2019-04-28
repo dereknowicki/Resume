@@ -649,5 +649,29 @@ https://github.com/dereknowicki/Resume
 
 \end_layout
 
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Official mobile app of Southern California Linux Expo
+\end_layout
+
+\end_inset
+
+
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/KnowikiApps/scale-conf-app
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \end_body
 \end_document
