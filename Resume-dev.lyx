@@ -530,6 +530,16 @@ Education
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
+filename "education/2017-09-cal-poly.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
 filename "education/2017-06-pcc-cs.lyx"
 
 \end_inset
@@ -579,6 +589,16 @@ filename "education/1999-06-hs-diploma.lyx"
 
 \begin_layout Section
 Volunteer Positions
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "volunteer-positions/2017-09-scale-app.lyx"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

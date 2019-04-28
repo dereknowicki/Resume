@@ -121,12 +121,9 @@ California
 
 \end_inset
 
- The system that is used for recording and live streaming the talks is totally
- custom built, open source and remotely controlled.
- My role in the development of the product was to redesign the web control
- interface for controlling the room cameras, scan converters (for slides),
- and remote switching of KVM switches in each room (for displaying graphics
- on projectors when there are no speakers).
+ Redesigned and built web control interface for custom, open source hardware
+ and software used to live stream presentations during the Southern California
+ Linux Expo
 \end_layout
 
 \end_body
