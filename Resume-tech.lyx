@@ -142,6 +142,16 @@ This part is super important to render the preamble as the title!
 Areas of Expertise
 \end_layout
 
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "areas-of-expertise/technician.lyx"
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Employment History
 \end_layout
@@ -487,6 +497,16 @@ filename "technical-skills-experience/commercial-automation.lyx"
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "technical-skills-experience/communications-protocols.lyx"
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Education
 \end_layout
@@ -524,7 +544,47 @@ filename "education/2008-12-niagra-ax-cert.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "education/2005-09-navy-wc-sup-training.lyx"
+filename "education/2004-04-navy-an-wsn-7.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "education/2004-02-navy-tvdts-tech-cert.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "education/2003-11-navy-basic-shipboard-elect-equip.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "education/2000-09-navy-an-wsn-5-tech.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "education/2000-08-navy-an-wsn-2-tech.lyx"
 
 \end_inset
 
